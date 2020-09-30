@@ -17,7 +17,7 @@ function App() {
             content: 'Second Content'
           },
           {
-            title: 'First title',
+            title: 'Third title',
             content: 'Third Content'
           }
         ]} />
