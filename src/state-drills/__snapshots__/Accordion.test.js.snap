@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Accordion componenet tests renders buttons 1`] = `
+<div>
+  <ul>
+    <li
+      key="0"
+    >
+      <button
+        onClick={[Function]}
+      >
+        Third title
+      </button>
+      <p>
+        Third Content
+      </p>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Accordion componenet tests renders the UI without crashing with click being passed 1`] = `
+<div>
+  <ul>
+    <li>
+      <button
+        onClick={[Function]}
+      >
+        First title
+      </button>
+    </li>
+    <li>
+      <button
+        onClick={[Function]}
+      >
+        Second title
+      </button>
+    </li>
+    <li>
+      <button
+        onClick={[Function]}
+      >
+        Third title
+      </button>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Accordion componenet tests renders the UI without crashing with props 1`] = `
+<div>
+  <ul>
+    <li>
+      <button
+        onClick={[Function]}
+      >
+        First title
+      </button>
+    </li>
+    <li>
+      <button
+        onClick={[Function]}
+      >
+        Second title
+      </button>
+    </li>
+    <li>
+      <button
+        onClick={[Function]}
+      >
+        Third title
+      </button>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`Accordion componenet tests renders the UI without props supplies 1`] = `
+<div>
+  <ul />
+</div>
+`;
